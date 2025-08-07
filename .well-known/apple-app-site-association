@@ -1,0 +1,13 @@
+{
+  "applinks": {
+      "details": [
+           {
+            "appIDs": [ "6B27SHDF9W.com.yumebau.prizehunt" ],
+            "paths": ["/*", "/location/*", "/prize/*"]
+           }
+       ]
+   },
+   "webcredentials": {
+      "apps": [ "6B27SHDF9W.com.yumebau.prizehunt" ]
+   }
+}
