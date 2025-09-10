@@ -1,9 +1,15 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.yumebau.prizehunt",
-    "sha256_cert_fingerprints":
-    ["68:2C:EB:0B:52:B0:17:C4:01:C5:C1:3E:F0:A2:23:74:0D:26:D4:1B:D8:50:AF:33:DB:2E:13:79:8E:68:2E:A7"]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.yumebau.prizehunt",
+      "sha256_cert_fingerprints": [
+        "68:2C:EB:0B:52:B0:17:C4:01:C5:C1:3E:F0:A2:23:74:0D:26:D4:1B:D8:50:AF:33:DB:2E:13:79:8E:68:2E:A7",
+        "82:93:DC:BC:D9:6A:C0:6E:9C:F5:D6:F8:0B:1F:4F:85:6B:EB:F3:F8:EA:23:21:54:4C:49:C7:BA:00:8E:34:8B"
+      ]
+    }
   }
-}]
+]
