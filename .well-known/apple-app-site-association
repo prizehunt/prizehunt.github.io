@@ -3,7 +3,7 @@
       "details": [
            {
             "appIDs": [ "6B27SHDF9W.com.yumebau.prizehunt" ],
-            "paths": ["/seaandwin/location*", "/seaandwin/prize*", "/seaandwin/challenges"]
+            "paths": ["NOT /", "/seaandwin/location*", "/seaandwin/prize*", "/seaandwin/challenges"]
            }
        ]
    },
