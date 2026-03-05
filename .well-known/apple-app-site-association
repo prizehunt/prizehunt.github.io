@@ -2,12 +2,12 @@
   "applinks": {
       "details": [
            {
-            "appIDs": [ "6B27SHDF9W.com.yumebau.prizehunt" ],
+            "appIDs": [ "ZAGJ7WY5NM.com.yumebau.prizehunt" ],
             "paths": ["NOT /", "/seaandwin/location*", "/seaandwin/prize*", "/seaandwin/challenges"]
            }
        ]
    },
    "webcredentials": {
-      "apps": [ "6B27SHDF9W.com.yumebau.prizehunt" ]
+      "apps": [ "ZAGJ7WY5NM.com.yumebau.prizehunt" ]
    }
 }
